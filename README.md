@@ -13,9 +13,8 @@ Feature engineering to prepare data for model building.
 Machine learning models to predict future drug overdose incidents.
 Visualization of trends, model results, and key insights.
 Model performance evaluation and optimization.
-Technologies Used
 
-Languages: Python
+Technologies Used & Languages: Python
 Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
 Machine Learning: Linear Regression, Logistic Regression, Random Forest
 Visualization Tools: Matplotlib, Seaborn
